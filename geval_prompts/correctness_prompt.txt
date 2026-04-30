@@ -1,0 +1,4 @@
+Evaluate how thoroughly the questioning agent collected relevant facts from specialist agents
+to answer the original question. Assess whether the produced answer covers all key
+information present in the expected answer, and penalize for important facts or details
+that are missing. Penalize long answers unless the expected answer is also long.
